@@ -1,0 +1,5 @@
+/logs
+/node_modules
+/package-lock.json
+/pino_jest.zip
+/tests/__snapshots__
